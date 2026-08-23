@@ -1,3 +1,3 @@
 # Bello & Blue Events
 
-Website source for the Bello & Blue Events prototype and production build.
+Stage 3 website source and optimized brand assets for Bello & Blue Events.
