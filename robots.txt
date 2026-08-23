@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bello-blue-events.vercel.app/sitemap.xml
